@@ -1,0 +1,11 @@
+.banner {
+  background-image: url("../../images/background.png");
+  object-fit: cover;
+  object-position: center;
+}
+
+.banner .container {
+  padding: 90px 10px;
+  text-align: left;
+  color: white;
+}
